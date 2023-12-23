@@ -1,0 +1,3 @@
+## Exercice1.3
+
+Soit un programme affichant des flocons de neige qui tombent du haut de la fenetre de la console. Chaque flocon est une lettre. Donner une structure de donnees qui permet de coder un flocon. Dans un programme, declarer quatre flocons. Initialiser un flocon a la declaration et un autre avec des valeurs aleatoires. Copier chaque flocon et afficher les valeurs des quatres locons de facon claire.
